@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: cooking
+  # datasource:
+  #   driver-class-name: org.postgresql.Driver
+  #   url: jdbc:postgresql://localhost:5432/test
+  #   hikari:
+  #     password: test
+  #     username: test
+  # jpa:
+  #   properties:
+  #     hibernate:
+  #       dialect: org.hibernate.dialect.PostgreSQLDialect
+  # liquibase:
+  #     password: test
+  #     user: test
