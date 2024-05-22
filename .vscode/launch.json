@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TestCookingApplication<cooking>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.girmgaiden.cooking.TestCookingApplication",
+            "projectName": "cooking",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
